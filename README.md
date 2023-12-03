@@ -20,9 +20,16 @@ Running phpmyadmin
 http://localhost:1002
 ```
 
-Credential account
+Credential account for user
 
 ```sh
 username : user
 password : user
+```
+
+Credential account for root
+
+```sh
+username : root
+password : root
 ```
